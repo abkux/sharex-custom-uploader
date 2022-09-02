@@ -1,5 +1,5 @@
 <?php
-$secret_key = "secret-key-here"; //Set This As Your Secret Key So Only You Have Access (Basically A Password)
+$secret_key = "secret-key"; //Set This As Your Secret Key So Only You Have Access (Basically A Password)
 $sharexdir = "directory/"; // Must include / after folder name
 $domain_url = 'https://domain.com/'; // Domain name, must include / after domain
 //If You Dont Have A SSL Certificate Then Keep It As Http (000webhost Has A Free SSL Certificate)
