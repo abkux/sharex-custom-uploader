@@ -1,7 +1,7 @@
 <?php
 $secret_key = "secret-key"; //Set This As Your Secret Key So Only You Have Access (Basically A Password)
 $sharexdir = "directory/"; // Must include / after folder name
-$domain_url = 'https://domain.com/'; // Domain name, must include / after domain
+$domain_url = 'https://abku.dev'; // Domain name, must include / after domain
 //If You Dont Have A SSL Certificate Then Keep It As Http (000webhost Has A Free SSL Certificate)
 $lengthofstring = 5; //Length Of The File You Will Upload's Name
 
