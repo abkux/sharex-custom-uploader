@@ -1,5 +1,3 @@
-Here's the README in a proper Markdown format that you can copy and paste directly into your `README.md` file:  
-
 ```md
 # 📂 ShareX PHP Uploader
 
@@ -70,6 +68,3 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 Feel free to reach out if you need help or have suggestions! 🚀
-```
-
-This Markdown format will work perfectly in GitHub's `README.md` file. 🚀
