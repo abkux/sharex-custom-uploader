@@ -69,5 +69,3 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 ## 📬 Contact
 Feel free to reach out if you need help or have suggestions! 🚀
 ```
-
-This Markdown format will work perfectly in GitHub's `README.md` file. 🚀
