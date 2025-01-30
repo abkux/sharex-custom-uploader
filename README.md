@@ -1,5 +1,3 @@
-Here's the README in a proper Markdown format that you can copy and paste directly into your `README.md` file:  
-
 ```md
 # 📂 ShareX PHP Uploader
 
